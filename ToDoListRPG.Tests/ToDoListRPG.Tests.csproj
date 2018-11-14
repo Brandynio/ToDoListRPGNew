@@ -6,7 +6,7 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{6FDABC77-F46C-4B59-8852-7959138D2011}</ProjectGuid>
+    <ProjectGuid>{E901A80B-A34A-4FC8-B0E4-9147D0D172A3}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>ToDoListRPG.Tests</RootNamespace>
@@ -100,7 +100,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\ToDoListRPG\ToDoListRPG.csproj">
-      <Project>{3D57175F-18D4-473B-9A6D-F8B5F000A72A}</Project>
+      <Project>{578C98C4-494E-42A7-97F1-1C1ADEF0C21D}</Project>
       <Name>ToDoListRPG</Name>
     </ProjectReference>
   </ItemGroup>
