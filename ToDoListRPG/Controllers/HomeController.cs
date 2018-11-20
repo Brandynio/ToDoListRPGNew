@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using ToDoListRPG.Models;
 
 namespace ToDoListRPG.Controllers
 {
@@ -24,6 +25,17 @@ namespace ToDoListRPG.Controllers
         {
             ViewBag.Message = "Your contact page.";
 
+            return View();
+        }
+
+        public ActionResult CharacterCreation()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public ActionResult CharacterCreation(Player player)
+        {
             return View();
         }
     }
