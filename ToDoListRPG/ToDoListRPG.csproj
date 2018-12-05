@@ -201,8 +201,16 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\AccountViewModels.cs" />
+    <Compile Include="Models\CharacterModel.cs" />
+    <Compile Include="Models\EyeStyle.cs" />
+    <Compile Include="Models\HairStyle.cs" />
     <Compile Include="Models\IdentityModels.cs" />
+    <Compile Include="Models\ListType.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
+    <Compile Include="Models\PantStyle.cs" />
+    <Compile Include="Models\ShirtStyle.cs" />
+    <Compile Include="Models\ToDoItem.cs" />
+    <Compile Include="Models\UserAccount.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
   </ItemGroup>
