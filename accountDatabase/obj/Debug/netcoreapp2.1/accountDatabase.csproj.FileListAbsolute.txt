@@ -1,0 +1,11 @@
+C:\Users\Beanboi\Documents\GitHub\ToDoListRPGNew\accountDatabase\bin\Debug\netcoreapp2.1\accountDatabase.deps.json
+C:\Users\Beanboi\Documents\GitHub\ToDoListRPGNew\accountDatabase\bin\Debug\netcoreapp2.1\accountDatabase.runtimeconfig.json
+C:\Users\Beanboi\Documents\GitHub\ToDoListRPGNew\accountDatabase\bin\Debug\netcoreapp2.1\accountDatabase.runtimeconfig.dev.json
+C:\Users\Beanboi\Documents\GitHub\ToDoListRPGNew\accountDatabase\bin\Debug\netcoreapp2.1\accountDatabase.dll
+C:\Users\Beanboi\Documents\GitHub\ToDoListRPGNew\accountDatabase\obj\Debug\netcoreapp2.1\accountDatabase.csprojAssemblyReference.cache
+C:\Users\Beanboi\Documents\GitHub\ToDoListRPGNew\accountDatabase\obj\Debug\netcoreapp2.1\accountDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Beanboi\Documents\GitHub\ToDoListRPGNew\accountDatabase\obj\Debug\netcoreapp2.1\accountDatabase.RazorAssemblyInfo.cache
+C:\Users\Beanboi\Documents\GitHub\ToDoListRPGNew\accountDatabase\obj\Debug\netcoreapp2.1\accountDatabase.RazorAssemblyInfo.cs
+C:\Users\Beanboi\Documents\GitHub\ToDoListRPGNew\accountDatabase\obj\Debug\netcoreapp2.1\accountDatabase.AssemblyInfoInputs.cache
+C:\Users\Beanboi\Documents\GitHub\ToDoListRPGNew\accountDatabase\obj\Debug\netcoreapp2.1\accountDatabase.AssemblyInfo.cs
+C:\Users\Beanboi\Documents\GitHub\ToDoListRPGNew\accountDatabase\obj\Debug\netcoreapp2.1\accountDatabase.RazorTargetAssemblyInfo.cache
